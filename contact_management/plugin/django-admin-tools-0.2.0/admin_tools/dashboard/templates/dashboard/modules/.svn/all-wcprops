@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules
+END
+recent_actions.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules/recent_actions.html
+END
+feed.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules/feed.html
+END
+link_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules/link_list.html
+END
+app_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules/app_list.html
+END
+model_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templates/dashboard/modules/model_list.html
+END

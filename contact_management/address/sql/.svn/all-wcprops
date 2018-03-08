@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/address/sql
+END
+state.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/address/sql/state.mysql.sql
+END
+country.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/address/sql/country.mysql.sql
+END

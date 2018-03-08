@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/theming
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/theming/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/theming/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/theming/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/theming/models.py
+END

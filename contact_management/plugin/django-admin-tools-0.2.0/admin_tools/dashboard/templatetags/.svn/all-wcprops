@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templatetags
+END
+admin_tools_dashboard_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templatetags/admin_tools_dashboard_tags.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/admin_tools/dashboard/templatetags/__init__.py
+END

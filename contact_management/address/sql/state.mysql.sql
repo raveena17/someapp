@@ -1,0 +1,10 @@
+insert into address_state (id,name,country_id) values('1','California','1');
+insert into address_state (id,name,country_id) values('2','Florida','1');
+insert into address_state (id,name,country_id) values('3','Alabama','1');
+insert into address_state (id,name,country_id) values('4','Michigan','1');
+insert into address_state (id,name,country_id) values('5','Kerala','2');
+insert into address_state (id,name,country_id) values('6','TamilNadu','2');
+insert into address_state (id,name,country_id) values('7','Karnataka','2');
+insert into address_state (id,name,country_id) values('8','Goa','2');
+insert into address_state (id,name,country_id) values('9','Andhra Pradesh','2');
+insert into address_state (id,name,country_id) values('10','Columbia','3');

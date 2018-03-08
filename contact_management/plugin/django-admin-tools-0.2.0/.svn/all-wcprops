@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/INSTALL
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/README
+END

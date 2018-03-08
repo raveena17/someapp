@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/SVN/Mindshare/!svn/ver/970/trunk/src/contact_management/contact_info/models.py
+END

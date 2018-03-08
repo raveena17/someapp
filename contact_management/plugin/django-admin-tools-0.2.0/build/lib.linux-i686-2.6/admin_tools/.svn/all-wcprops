@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools/utils.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/SVN/Mindshare/!svn/ver/971/trunk/src/contact_management/plugin/django-admin-tools-0.2.0/build/lib.linux-i686-2.6/admin_tools/urls.py
+END
